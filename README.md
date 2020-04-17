@@ -1,6 +1,6 @@
 # Spotcode
 
-** Projeto Clone do Spotify**
+**Projeto Clone do Spotify**
 
 <img src="../../javascript/assets/image/logo.png" alt="Logo Spotcode">
 
