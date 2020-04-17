@@ -1,4 +1,4 @@
 # Spotcode
 
-** Projeto Clone do Spotify**
+**Projeto Clone do Spotify**
 
